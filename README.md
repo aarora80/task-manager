@@ -1,7 +1,3 @@
-Certainly! Here’s a sample `README.md` file for your task manager application that uses TypeScript, React, Electron, Node.js, AWS, and PostgreSQL. Feel free to adjust any sections according to your specific implementation and details.
-
----
-
 # Task Manager App
 
 A modern task management application built using TypeScript, React, Electron, Node.js, AWS, and PostgreSQL. This application provides a desktop client with powerful task management features and a backend API for seamless data storage and retrieval.
@@ -159,9 +155,6 @@ A modern task management application built using TypeScript, React, Electron, No
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -171,6 +164,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **PostgreSQL**: For a robust relational database.
 - **AWS**: For cloud infrastructure.
 
----
-
-Feel free to customize this `README.md` according to your specific project details, additional setup instructions, or any unique features you may have.
+-Arnav Arora July 2024
